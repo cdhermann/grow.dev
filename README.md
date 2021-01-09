@@ -1,6 +1,6 @@
 grow.dev
 ===========
-[![Circle CI](https://circleci.com/gh/grow/grow.io.png?style=shield)](https://circleci.com/gh/grow/grow.io)
+[![Circle CI](https://circleci.com/gh/grow/grow.dev.png?style=shield)](https://circleci.com/gh/grow/grow.dev)
 
 The documentation website for [Grow.dev](https://github.com/grow/grow).
 
